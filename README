@@ -1,0 +1,39 @@
+Designed for Google Chrome
+Work Screen Resolution: 2880 x 1800
+
+I used port 8082 instead of 8080
+
+The SQL Script to create the database can be found in 
+Assignment4.sql
+
+SQL Script
+Change Username and Password in the following files and lines
+
+AddFavoritesServlet.java
+	line 208
+	
+DuplicateServlet.java
+	line 129
+
+FavoritesServlet.java
+	line 146
+
+GoogleLoginServlet.java
+	line 117
+	line 172
+	line 218
+
+LoginServlet.java
+	line 123
+	line 175
+	line 234
+
+RemoveFavoritesServlet.java
+	line 115
+
+SignUpServlet.java
+	line 163
+	line 216
+	line 268
+	line 310
+	line 368
